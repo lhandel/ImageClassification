@@ -11,7 +11,7 @@ Data augmentation was implemented using Keras built in ImageGenerator [18] for a
 
 
 # Final Architectures
-![Final Architectures](https://user-images.githubusercontent.com/13455815/44313523-93bc0080-a40a-11e8-8fab-d461e69636c2.png)
+![Final Architectures](https://user-images.githubusercontent.com/13455815/44313625-fd88da00-a40b-11e8-9f47-7f09bb0a1014.png)
 
 # Results
 | Model               | Training Accuracy          | Validation Accuracy| 
